@@ -2,17 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
 
-## Make a project
+## FIRST CLONE THE PROJECT
 
-Make project by `ng new name` and enable routing option and css.
+## Install dependencies
 
-## Setup bootstrap
-
-Install bootstrap `npm install bootstrap@3`. 
-
-## Past File
-
-Paste all file in your project.
+Install dependencies by `npm install` or `npm install -g`.
 
 ## Development server
 
