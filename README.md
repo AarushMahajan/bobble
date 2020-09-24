@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Make a project
 
-Make project by `ng new name`.
+Make project by `ng new name` and enable routing option and css.
 
 ## Setup bootstrap
 
